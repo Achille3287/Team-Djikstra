@@ -1,2 +1,3 @@
 
-Copyright (C) 2024 achille3287@hotmail.com
+Copyright (C) 2024 Team Djikstra, ALL RIGHTS RESERVED
+
